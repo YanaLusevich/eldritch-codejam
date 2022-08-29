@@ -73,6 +73,6 @@ const cardsData = [
     difficulty: 'normal',
     color:'blue'
   },
-]
+];
 
-export default cardsData
+export default cardsData;
